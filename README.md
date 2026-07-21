@@ -21,7 +21,7 @@ Email Me 👉 ✉️ **ahtashamahmad24311@gmail.com** For Collaboration/Project 
 ![](https://github-readme-stats.shion.dev/api?username=AhtashamAhmad0&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AhtashamAhmad0&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AhtashamAhmad0&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhtashamAhmad0&show_icons=true&theme=react)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AhtashamAhmad0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
