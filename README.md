@@ -22,17 +22,6 @@
 ⚡ I love solving real-world problems through clean, scalable, and maintainable code.
 
 ---
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-## 🌐 Portfolio
-
-🔗 **Portfolio:** https://ahtashamahmadportfolio.vercel.app
-
----
 
 ## 📫 Connect With Me
 
@@ -61,6 +50,18 @@
 </p>
 
 ---
+
+---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🌐 Portfolio
+
+🔗 **Portfolio:** https://ahtashamahmadportfolio.vercel.app
 
 ---
 
